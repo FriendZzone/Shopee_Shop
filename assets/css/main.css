@@ -607,7 +607,7 @@
   float: right;
   margin: 0 12px 12px 0;
 }
-.header__cart-view-cart:hover {
+.header__cart:hover {
   background-color: tomato;
 }
 
